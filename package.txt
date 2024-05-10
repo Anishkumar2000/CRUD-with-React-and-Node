@@ -1,0 +1,10 @@
+npm init -y   
+npm i express cors
+npm i nodemon -D
+
+
+React
+
+npm create vite@latest  client 
+
+npm i Axios
